@@ -1,0 +1,9 @@
+/* Word Twit Error Log Css */
+.wt_log_tip{display:none;}
+
+.jetpack-message{display:none;}
+
+span.jw_wt_errors{color:#000; cursor:pointer;}
+span.jw_wt_error:hover{cursor:pointer;}
+span.wt_log_tip a{color:#F00; display:block; text-align:right;}
+span.jw_wt_errors:hover span.wt_log_tip{position:absolute; display:block; width:300px; padding:5px; background-color: #FCF49A; margin:-2px; border:1px solid #000;}
